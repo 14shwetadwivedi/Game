@@ -1,2 +1,0 @@
-# Game
-stone,paper,scissor
